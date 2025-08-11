@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Insígnia BP — Histórias</title>
+  <title>A clara Escuridão: Entre Linhas, o Lado Crônico</title>
   <meta name="description" content="Coleção de histórias — projeto ligado à insígnia de Baden‑Powell" />  <!-- Fonts -->  <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Montserrat:wght@500;700&display=swap" rel="stylesheet">  <!-- Favicon (substitua pelo seu) -->  <link rel="icon" href="data:;base64,iVBORw0KGgo=" />  <style>
     :root{
       --bg:#fbfbfb; --card:#ffffff; --muted:#6b7280; --accent:#234e52; --accent-2:#8b2e3b;
@@ -298,4 +298,5 @@
 
     // Para adicionar histórias: edite a constante STORIES no topo.
   </script></body>
+
 </html>
